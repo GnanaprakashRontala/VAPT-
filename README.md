@@ -29,9 +29,9 @@ The goal was to simulate a real-world black-box penetration test by:
 | Component | Details |
 |---|---|
 | **Attacker Machine** | Kali Linux |
-| **Attacker IP** | 10.73.92.87 |
+| **Attacker IP** | 192.168.x.x (Attacker) |
 | **Target Machine** | Metasploitable 2 |
-| **Target IP** | 10.73.92.147 |
+| **Target IP** | 192.168.x.x (Target) |
 | **Target OS** | Linux 2.6.24 (Ubuntu 8.04) |
 | **Network** | VirtualBox Bridged Adapter (Isolated) |
 | **Virtualization** | Oracle VirtualBox |
@@ -160,10 +160,10 @@ VAPT-Metasploitable2/
 
 ## 👤 Author
 
-**[Your Name]**  
+**Gnana prakash Ronatala**  
 Computer Science Student | Aspiring Cybersecurity Professional  
-📧 [your-email@example.com]  
-🔗 [LinkedIn Profile]  
+📧 gnanaprakash.rontala.27@gmail.com
+🔗 linkedin.com/in/gnana-prakash-rontala-585408406
 
 ---
 
